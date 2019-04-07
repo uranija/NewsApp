@@ -7,3 +7,6 @@ Parsing the response of the API
 Handling error cases gracefully
 Updating information regularly
 Doing network operations independent of the Activity lifecycle
+
+
+https://open-platform.theguardian.com/documentation/
