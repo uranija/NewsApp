@@ -12,5 +12,7 @@ Doing network operations independent of the Activity lifecycle
 https://open-platform.theguardian.com/documentation/
 
 
-
+![news](https://user-images.githubusercontent.com/26045797/56085218-75e35600-5e48-11e9-8b1c-9f9a34421d86.png)
+![news2](https://user-images.githubusercontent.com/26045797/56085219-75e35600-5e48-11e9-8f8a-9d0b601620b0.png)
+![news3](https://user-images.githubusercontent.com/26045797/56085220-75e35600-5e48-11e9-8443-4b74fd84f1ad.png)
 
